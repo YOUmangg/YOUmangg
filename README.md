@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YOUmangg
-- 🌱 I’m currently learning CSS and JavaScript.
+- 🌱 I’m currently learning about Data Structures and Algorithms along with Web Development.
 - 📧 You can reach me at lalumang03@gmail.com
 
 <!---
