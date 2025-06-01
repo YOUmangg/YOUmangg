@@ -5,6 +5,8 @@
 - 📧 You can reach me at lalumang03@gmail.com
 --->
 
+Hi, I am Umang Lal, a Data Science enthusiast who loves to learn new things!
+
 
 <!---
 YOUmangg/YOUmangg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
