@@ -5,7 +5,29 @@
 - 📧 You can reach me at lalumang03@gmail.com
 --->
 
-Hi, I am Umang Lal, a Data Science enthusiast who loves to learn new things!
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{YOUmangg}/count.svg" alt="Visitor's Count" />
+</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Umang+Lal!;" />
+</h1>
+
+### An ML and Software Engineering geek passionate about solving puzzles and building impactful things; learner forever!
+
+<br>
+
+<div align="center">
+  <a href="lalumang03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/umanglal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
 
 ## ⚡️ Stats
 
