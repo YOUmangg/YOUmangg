@@ -31,6 +31,17 @@
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,java,spring,ts,nextjs,postgres"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,html,css,tailwind,js,git,postman,figma"/>
+</p>
+
+<hr>
+
 ## ⚡️ Stats
 
 <br>
