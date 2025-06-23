@@ -27,6 +27,9 @@
   <a href="https://linkedin.com/in/umanglal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://x.com/Umang_lal" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <hr>
@@ -48,7 +51,7 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=YOUmangg&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Umang's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YOUmangg&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Umang's" />
+<!--   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YOUmangg&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Umang's" /> -->
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUmangg&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Umang's Most Used Languages" />
 </div>
 
