@@ -16,9 +16,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Umang+Lal!;" />
 </h1>
 
-### An ML and Software Engineering geek, passionate about solving problems and creating impact; learner forever!
+<!--- <h1> ### An ML and Software Engineering geek, passionate about solving problems and creating impact; learner forever! </h1> --->
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=28&color=4493F8&center=true&vCenter=true&width=700&lines=An+ML+and+Software+Engineering+geek,+passionate+about+solving+problems+and+creating+impact;+learner+forever!" />
 
 <br>
+
+
 
 <div align="center">
   <a href="lalumang03@gmail.com">
