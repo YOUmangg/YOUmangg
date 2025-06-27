@@ -1,10 +1,3 @@
-<!---
-- 👋 Hi, I’m @YOUmangg
-- 🎯 I love solving problems and have a keen interest in learning about Data Structures and Algorithms.
-- 🌱 I’m currently diving deep into Machine Learning concepts as well as Web Development.
-- 📧 You can reach me at lalumang03@gmail.com
---->
-
 <!--- 
 <div align="center"> 
   <p>Visitor count</p>
@@ -13,14 +6,12 @@
 --->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Umang+Lal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=48&center=true&vCenter=true&width=500&height=70&color=d10ffc&duration=3000&lines=Hi+There!+👋;+I'm+Umang+Lal!;" />
 </h1>
 
-### **An ML and Software Engineering geek, passionate about solving problems and creating impact; learner forever!**
+### *An ML and Software Engineering geek, passionate about solving problems and creating impact; learner forever!*
 
 <br>
-
-
 
 <div align="center">
   <a href="lalumang03@gmail.com">
@@ -51,12 +42,10 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YOUmangg&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Umang's GitHub Stats" />
-<!--   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YOUmangg&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Umang's" /> -->
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUmangg&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Umang's Most Used Languages" />
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUmangg&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en&border_radius=20&border_color=58a6ff" alt="Umang's GitHub Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUmangg&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=20&border_color=58a6ff&show_icons=true&locale=en" alt="Umang's Most Used Languages" />
 </div>
-
 <hr>
 
 <!---
