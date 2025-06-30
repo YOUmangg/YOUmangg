@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=48&center=true&vCenter=true&width=500&height=70&color=d10ffc&duration=3000&lines=Hi+There!+👋;+I'm+Umang+Lal!;" />
 </h1>
 
-### *An ML and Software Engineering geek, passionate about solving problems and creating impact; learner forever!*
+### *An Software Engineering and ML geek, passionate about solving problems and creating impact; learner forever!*
 
 <br>
 
