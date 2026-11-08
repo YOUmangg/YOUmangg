@@ -43,9 +43,10 @@
 <br>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUmangg&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en&border_radius=20&border_color=58a6ff" alt="Umang's GitHub Stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUmangg&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=20&border_color=58a6ff&show_icons=true&locale=en" alt="Umang's Most Used Languages" />
+  <img width="390" src="https://github-stats-extended.vercel.app/api?username=YOUmangg&theme=radical&show_icons=true&rank_icon=github&locale=en&border_radius=20&border_color=58a6ff" alt="Umang's GitHub Stats" />
+  <img width="325" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUmangg&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=20&border_color=58a6ff&locale=en" alt="Umang's Most Used Languages" />
 </div>
+
 <hr>
 
 ## 🐍 My Contributions
